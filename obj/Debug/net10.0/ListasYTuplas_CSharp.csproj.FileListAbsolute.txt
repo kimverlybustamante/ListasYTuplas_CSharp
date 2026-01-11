@@ -1,0 +1,14 @@
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\bin\Debug\net10.0\ListasYTuplas_CSharp.exe
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\bin\Debug\net10.0\ListasYTuplas_CSharp.deps.json
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\bin\Debug\net10.0\ListasYTuplas_CSharp.runtimeconfig.json
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\bin\Debug\net10.0\ListasYTuplas_CSharp.dll
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\bin\Debug\net10.0\ListasYTuplas_CSharp.pdb
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\obj\Debug\net10.0\ListasYTuplas_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\obj\Debug\net10.0\ListasYTuplas_CSharp.AssemblyInfoInputs.cache
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\obj\Debug\net10.0\ListasYTuplas_CSharp.AssemblyInfo.cs
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\obj\Debug\net10.0\ListasYTuplas_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\obj\Debug\net10.0\ListasYTuplas_CSharp.dll
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\obj\Debug\net10.0\refint\ListasYTuplas_CSharp.dll
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\obj\Debug\net10.0\ListasYTuplas_CSharp.pdb
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\obj\Debug\net10.0\ListasYTuplas_CSharp.genruntimeconfig.cache
+C:\Users\DELL 5\OneDrive\Desktop\ListasYTuplas_CSharp\obj\Debug\net10.0\ref\ListasYTuplas_CSharp.dll
